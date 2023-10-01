@@ -35,3 +35,11 @@ On clicking on the favourite button, we can add a movie to the favourite list wh
 * addToFavDOM
 * deleteMovie
 * notify
+
+
+## App preview
+
+![image](https://github.com/amitprasad1403/IMDB-Clone/blob/main/IMDB1.png)
+![image](https://github.com/amitprasad1403/IMDB-Clone/blob/main/IMDB2.png)
+![image](https://github.com/amitprasad1403/IMDB-Clone/blob/main/IMDB3.png)
+![image](https://github.com/amitprasad1403/IMDB-Clone/blob/main/IMDB4.png)
